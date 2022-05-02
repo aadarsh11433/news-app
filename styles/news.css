@@ -1,0 +1,14 @@
+#detailed_news{
+    border: 2px solid gray;
+    padding: 15px;
+    margin: 10px 20px;
+
+}
+img{
+    height: 400px;
+    width: 400px;
+     margin-left: 35%;
+}
+#detailed_news h3{
+    text-align: center;
+}
